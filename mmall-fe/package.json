@@ -20,5 +20,8 @@
     "url-loader": "^0.6.2",
     "webpack-dev-server": "^2.9.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "hogan": "^1.0.2"
+  }
 }
